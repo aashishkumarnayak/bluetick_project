@@ -1,10 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Download the source code
+Click the Code button and click Download ZIP
+Extract ZIP file
+and run these below commands
 
-## Available Scripts
-
-In the project directory, you can run:
 ### `npm install`
 to install node modules then 
 
