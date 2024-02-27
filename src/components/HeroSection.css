@@ -1,0 +1,36 @@
+/* Adjust these styles based on your design */
+
+.hero-section {
+  
+  background-size: cover;
+  background-color: #f1f7ff;
+  background-position: center;
+  height: 500px; /* Adjust the height as needed */
+  color: #2d2a2a; /* Text color */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-section h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+  margin-bottom: 40px;
+}
+
+.hero-btn {
+  background-color: #007bff; /* Adjust button color */
+  color: #fff; /* Button text color */
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+/* Add additional styles as needed */

@@ -1,0 +1,32 @@
+/* WhatWeOffer.css */
+
+.what-we-offer-section {
+    background-color: #f8f8f8;
+    padding: 50px 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .offer-item {
+    margin-bottom: 40px;
+  }
+  
+  .offer-item h3 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  .offer-item p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  h2 {
+    color: #0056ff;
+    font-size: 2rem;
+   
+
+    text-align: center;
+}

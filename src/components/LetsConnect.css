@@ -1,0 +1,55 @@
+/* LetsConnect.css */
+
+.lets-connect-section {
+    background-color: #f8f8f8;
+    padding: 50px 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  form {
+    display: grid;
+    gap: 20px;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  h2 {
+    color: #0056ff;
+    font-size: 2rem;
+   
+   
+    text-align: center;
+}
